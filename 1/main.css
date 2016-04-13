@@ -1,0 +1,17 @@
+div {
+	border:1px #ccc solid;
+	border-radius: 10px;
+	background-image: : linear-gradient(180deg,rgba(255, 255, 255, 0) 60%, #fff)linear-gradient(70deg, #e0f1ff 32%, #fffae3);
+	margin: 20px;
+	box-shadow: 5px 5px 5px 5pxrgba(0,0,0,0.2);
+}
+
+div.left{
+	width:20%;
+}
+
+div.middle {
+	width: 4px;
+	float:left;
+
+}
